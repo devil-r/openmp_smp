@@ -16,5 +16,6 @@ int main()
         sum = sum + f;}
         cout<<sum<<endl<<t;
     }
+    cout<<"i am the best";
     return 0;
 }
